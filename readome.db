@@ -1,0 +1,7 @@
+ webpack-demo
+  |- package.json
++ |-/dist
++   |- index.html
+- |- index.html
++ |- /src
++   |- index.js
